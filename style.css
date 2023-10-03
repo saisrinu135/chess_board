@@ -1,0 +1,26 @@
+.main{
+    background-color: white;
+    width: 640px;
+    height: 640px;
+    border-style: solid;
+}
+
+.white{
+    background-color: white;
+    float: left;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    text-shadow: 1px 1px white;
+    font-size: 50px
+}
+
+.black{
+    background-color: black;
+    float: left;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 1px 1px white;
+}
